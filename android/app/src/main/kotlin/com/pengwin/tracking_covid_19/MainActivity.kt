@@ -1,4 +1,4 @@
-package com.example.tracking_covid_19
+package com.pengwin.tracking_covid_19
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
