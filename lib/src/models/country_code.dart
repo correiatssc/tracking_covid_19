@@ -90,7 +90,6 @@ class CountryCode {
     CountryCode(countryName: 'Jordan', code: 'JO'),
     CountryCode(countryName: 'Kazakhstan', code: 'KZ'),
     CountryCode(countryName: 'Kenya', code: 'KE'),
-    CountryCode(countryName: 'Korea', code: 'KP'),
     CountryCode(countryName: 'Kosovo', code: 'XK'),
     CountryCode(countryName: 'Kuwait', code: 'KW'),
     CountryCode(countryName: 'Kyrgyzstan', code: 'KG'),
